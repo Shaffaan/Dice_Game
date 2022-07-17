@@ -3,6 +3,7 @@
 A small dice game created to practice using the dom, and assist me on my journey of mastering Vanilla JS
 
 Game is hosting using netlify https://diceto100game.netlify.app/
+
 Try it for yourself and challenge your friend/sibling/anyone to see who can reach 100 fastest 
 
 # Front Page
