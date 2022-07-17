@@ -18,3 +18,5 @@ Below is what the front page looks like, which is created using basic HTML and C
 Instructions on how to play the game, they can also be found on the front page
 
 ![](images/Instructions.png)
+
+All game logic has been implemented using Vanilla JS and by manipulating the DOM
